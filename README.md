@@ -17,6 +17,7 @@ A data analyst enthusaist and an energetic team player, who is willing to pursue
 ## **PROJECTS**
 
 #### **[ Data Collector](https://github.com/Ukonu/Covid-19-)** | Nov 2020
+* Daily track record of coronavirus cases in Nigeria
 
 #### **[Data Analyst](https://github.com/Ukonu/suicide-analysis)** | Aug 2020
 * Basic analysis on sucide rate across the world. 
