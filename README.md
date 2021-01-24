@@ -20,6 +20,7 @@ A data analyst enthusaist and an energetic team player, who is willing to pursue
 
 #### **[Data Analyst](https://github.com/Ukonu/suicide-analysis)** | Aug 2020
 * Basic analysis on sucide rate across the world. 
+* Basic analysis on house hold price prediction
 ---
 ## **EDUCATION**
 
