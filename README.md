@@ -65,8 +65,7 @@ CHILDHOOD FOUNDATIONS, UNIVERSITYOF IBADAN | July 2019- August 2020
 ---
 ## **Volunteer Experience**
 
-#### **BUSINESS MANAGER** - YOUNG AGROPRENEUR FARMERS’ COOPERATIVE SOCIETY
-(2017)
+#### **BUSINESS MANAGER** - YOUNG AGROPRENEUR FARMERS’ COOPERATIVE SOCIETY (2017)
 * Assessed and identified new opportunities for growth in current and prospective markets
 * Established the company’s goals andobjectives
 * Ensured all company activities adhere to legal guidelines and policies
