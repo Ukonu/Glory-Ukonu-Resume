@@ -18,7 +18,7 @@ A data analyst enthusaist and an energetic team player, who is willing to pursue
 
 #### **[ Data Collector](https://github.com/Ukonu/Covid-19-)** | Nov 2020
 * 
-####**[]
+####**[Data Analyst]()**| 
 ---
 ## **EDUCATION**
 
