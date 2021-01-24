@@ -16,8 +16,8 @@ A data analyst enthusaist and an energetic team player, who is willing to pursue
 ---
 ## **PROJECTS**
 
-#### **[ Data Collector](https://github.com/Ukonu/Covid-19-)** | Nov 2020
-* Daily track record of coronavirus cases in Nigeria
+#### **[ Data Analyst](https://github.com/Ukonu/Covid-19-)** | Nov 2020
+* Covid-19 Open dataset available at NCDC website was first scrapped using rvest while data cleaning was achieve using tidyr and dplyr R packages. This data was used to build a real time dashboard to track and visualize geospatially daily Coronavirus cases across all states in Nigeria. The tracker was built using Shiny R, a R programming package for building interactive web apps. Data Source: [NCDC](http://covid19.ncdc.gov.ng).
 
 #### **[Data Analyst](https://github.com/Ukonu/suicide-analysis)** | Aug 2020
 * Basic analysis on sucide rate across the world. 
