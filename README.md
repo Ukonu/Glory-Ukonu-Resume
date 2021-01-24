@@ -1,4 +1,4 @@
-# ** Glory Chidinma Ukonu** 
+# **Glory Chidinma Ukonu**
 #### Pearl Garden Estate, Sangotedo, Ajah, Lagos | +2347060620544 | [Github] (https://github.com/Ukonu/Covid-19-) | [LinkedIn] (http://www.linkedin.com/in/glory-ukonu-10283b151) |
 ---
 
@@ -14,13 +14,13 @@ A data analyst enthusaist and an energetic team player, who is willing to pursue
 * Power BI
 * Tableau
 ---
-## ** PROJECTS**
+## **PROJECTS**
 
 #### **[ Data Collector](https://github.com/Ukonu/Covid-19-)** | Nov 2020
 * 
 ####**[]
 ---
-## ** [EDUCATION]**
+## **[EDUCATION]**
 
 #### **BACHELOR OF SCIENCE (ECONOMICS AND STATISTICS) (CGPA 4.0)** | 2018 | UNIVERISTY OF BENIN, BENIN CITY, EDO STATE
 AREAS OF EXPOSURE:
@@ -32,7 +32,7 @@ AREAS OF EXPOSURE:
 * Financial Institutions
 * International Economics
 
-#### ** WASSCE | GLORYVILLE COLLEGE, OKOKOMAIKO, LAGOS STATE **| 2011 |
+#### **WASSCE | GLORYVILLE COLLEGE, OKOKOMAIKO, LAGOS STATE**| 2011 |
 AREAS OF EXPOSURE:
 * Basic Math
 * Use of English Language
@@ -40,7 +40,7 @@ AREAS OF EXPOSURE:
 * Commerce
 
 #### **Experience**
-#### ** TREASURY ANALYST(INTERN)**| MIRATON MATADOR GROUP | October 2020 - January 2021
+#### **TREASURY ANALYST(INTERN)**| MIRATON MATADOR GROUP | October 2020 - January 2021
 * Cash Management & Treasury Front Desk Management
 * Corporate Funds Soliciting
 * Investment Product Management
@@ -51,8 +51,8 @@ AREAS OF EXPOSURE:
 * Venture Funding and External Funding
 * Assist Team Lead on assigned tasks
 
-####**ADMINISTRATIVE ASSISTANT (NYSC)** | DEPARTMENT OF EARLY
-CHILDHOOD FOUNDATIONS, UNIVERSITYOF IBADAN** | July 2019- August 2020
+#### **ADMINISTRATIVE ASSISTANT (NYSC)** | DEPARTMENT OF EARLY
+CHILDHOOD FOUNDATIONS, UNIVERSITYOF IBADAN | July 2019- August 2020
 * Had responsibility of handling office tasks; filing, generating reports and presentations
 * Prepared communications; memos, emails, invoices, reports and other correspondence
 * Reported data & information management and archiving of educational documents
