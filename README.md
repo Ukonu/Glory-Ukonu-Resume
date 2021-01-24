@@ -20,7 +20,7 @@ A data analyst enthusaist and an energetic team player, who is willing to pursue
 * 
 ####**[]
 ---
-## **[EDUCATION]**
+## **EDUCATION**
 
 #### **BACHELOR OF SCIENCE (ECONOMICS AND STATISTICS) (CGPA 4.0)** | 2018 | UNIVERISTY OF BENIN, BENIN CITY, EDO STATE
 AREAS OF EXPOSURE:
@@ -39,7 +39,9 @@ AREAS OF EXPOSURE:
 * Economics
 * Commerce
 
-#### **Experience**
+---
+## **Experience**
+
 #### **TREASURY ANALYST(INTERN)**| MIRATON MATADOR GROUP | October 2020 - January 2021
 * Cash Management & Treasury Front Desk Management
 * Corporate Funds Soliciting
@@ -60,6 +62,32 @@ CHILDHOOD FOUNDATIONS, UNIVERSITYOF IBADAN | July 2019- August 2020
 * Lead review and ideation sessions for the unit
 * Earned a reputation for strong work ethics and commitment to task
 
+---
+## **Volunteer Experience**
+
+#### **BUSINESS MANAGER** - YOUNG AGROPRENEUR FARMERS’ COOPERATIVE SOCIETY
+(2017)
+* Assessed and identified new opportunities for growth in current and prospective markets
+* Established the company’s goals andobjectives
+* Ensured all company activities adhere to legal guidelines and policies
+
+---
+## **Certifications/Achievements**
+* Young African Leaders Initiative (YALI) network certification on Workforce Collaboration and
+Development, and Management Strategies for People and Resources. – 2020
+* SheCode Africa Mentorship Program-2020
+* Hash Analytic certification on Data Analytics – 2020
+*  Advanced Google Analytics - 2020
+*  Google Analytics for Beginners - 2020
+*  Internship Experience UK Certification – 2020
+*  Customer Service Specialist LinkedIn 2020
+*  Championed the successful execution of the trade exhibition promoting entrepreneurship and skills amongst students, which lead to a 10% incremental sales on hand made apparels and accessories - 2017
+---
+## **Interests**
+* Research and Practical
+* Analytical Thinking
+* Conferences and Seminars
+* Travelling.
 
 
 
