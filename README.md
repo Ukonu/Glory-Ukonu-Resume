@@ -1,5 +1,5 @@
 # **Glory Chidinma Ukonu**
-#### Pearl Garden Estate, Sangotedo, Ajah, Lagos | +2347060620544 | [Github](https://github.com/Ukonu/Covid-19-) | [LinkedIn](http://www.linkedin.com/in/glory-ukonu-10283b151) |
+#### Monastery, Sangotedo, Ajah, Lagos | +2347060620544 | [Github](https://github.com/Ukonu/Covid-19-) | [LinkedIn](http://www.linkedin.com/in/glory-ukonu-10283b151) |
 ---
 
 A data analyst enthusaist and an energetic team player, who is willing to pursue a challenging and rewarding career in any organization that provides a wide range of career opportunities for growth and personal development while directly involved in the advancement of the corporate objectives of the organization.
